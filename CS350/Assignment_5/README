@@ -1,0 +1,14 @@
+Charles Raymond, 2306164, raymond@chapman.edu, CPCS350, Assignment5
+This progam is a database that consists of a BST of students and faculty members
+
+The known problems are the roll back does not work. I tried to get it to work and it kinda works, but in the end it wasn't working
+well enough to keep it in the program. I commented out that part of the program
+
+The other known problem that could occur, is each piece of information that is a string cannot take more then one word.
+This is because the deserialization reads in after every space (I didn't know how to not have it be that way). 
+
+Source Files:
+BST.h 		Main.cpp 	StudentTree.txt		studentFunction.cpp
+Faculty.h	README		FacultyTree.txt		Serializable.h	
+facultyFunction.cpp	Function.h	Student.h	function.cpp	
+

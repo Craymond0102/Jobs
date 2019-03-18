@@ -1,0 +1,14 @@
+Charles Raymond, 2306164, raymond@chapman.edu, CPCS350, Assignment4
+This program simulates a line of students, in which when a register is open procceed
+to the register
+
+The only known problem that I have is that with the time calculation when waiting. For example, when
+the line starts with people arriving at 1, there is a chance my program does not calculate
+people who arrive at 4 effectively
+
+Source Files:
+Main.cpp
+inkedList.h		README			studentFunction.cpp
+Main.cpp		Simulation.h		windowFunction.cpp
+Node.h			Student.h		secondFile.txt
+Queue.h			Window.h		simulationFunction.cpp

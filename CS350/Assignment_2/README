@@ -1,0 +1,11 @@
+Charles Raymond, 2306164, raymond@chapman.edu, CPCS350, Assignment1
+this program simulates the game Of Life game. It has three game modes,
+and even outprints to another file
+
+As of now, there are no known problems
+
+source files: 
+Main.cpp
+GameOfLifeFunctios.cpp
+header.h
+

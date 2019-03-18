@@ -1,0 +1,12 @@
+Charles Raymond, 2306164, raymond@chapman.edu, CPCS350, Assignment1
+This program takes in a file of DNA strings and calculates the
+sum, mean, variance, and standard deviation. It then creates its own distribution
+and outprints another 1000 DNA strings based off of the statistics gathered above
+
+As of right now there are no known errors, and compiles
+
+Source Files:
+
+DNA.h - header file
+DnaFucntions.cpp - file where DNA class functions are held
+Main.cpp - main

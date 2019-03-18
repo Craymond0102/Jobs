@@ -1,0 +1,13 @@
+Charles Raymond, 2306164, raymond@chapman.edu, CPCS350, Assignment3
+This program checks for syntax errors, specifically {, (, and [.
+checks each problem one at a time
+
+The only known problem, is the stack class was not dynamically allocated. 
+I did not fully know how to do it, but how it is implemented works
+
+Source Files:
+Main.cpp
+CompilerChecker.h
+stack.h
+function.cpp
+
