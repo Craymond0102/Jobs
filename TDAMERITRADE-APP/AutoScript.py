@@ -37,8 +37,8 @@ def login():
     br.open("https://auth.tdameritrade.com")
 
     br.select_form( id = "authform" )
-    br.form[ 'su_username' ] = "rilolong"
-    br.form[ 'su_password' ] = "Rupert111"
+    br.form[ 'su_username' ] = "XXXXXXXXX"
+    br.form[ 'su_password' ] = "XXXXXXXXX"
     
     no_url = br.submit()
     url = no_url.geturl()
